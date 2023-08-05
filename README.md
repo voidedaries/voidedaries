@@ -1,7 +1,5 @@
 # VoidedAries
 
-#
-
 '(Graphic Designer/Developer)'
 
 I'm a passionate graphic designer and developer, deeply enthusiastic about fusing creativity and coding. With an eye for aesthetics and a love for elegant code, I enjoy crafting visually appealing designs and bringing them to life through interactive web experiences. My goal is to seamlessly integrate design and technology, creating user-friendly and interactive experiences.
