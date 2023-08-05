@@ -1,16 +1,17 @@
-### Hi there 👋
+* VoidedAries
 
-<!--
-**voidedaries/voidedaries** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**'(Graphic Designer/Developer)'**
 
-Here are some ideas to get you started:
+I'm a passionate graphic designer and developer, deeply enthusiastic about fusing creativity and coding. With an eye for aesthetics and a love for elegant code, I enjoy crafting visually appealing designs and bringing them to life through interactive web experiences. My goal is to seamlessly integrate design and technology, creating user-friendly and interactive experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Languages and tools
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg"/>
+
+#
